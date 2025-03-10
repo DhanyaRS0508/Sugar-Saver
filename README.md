@@ -38,7 +38,11 @@ The system consists of **five main tables:**
 - **Patient:** Upload, update, and access medical records & diet plans.  
 
 ## 📸 Screenshots  
-- **Login & Signup Pages**  
+- **Login & Signup Pages**
+![Login Page](images/login.png)  
+![Signup Page](images/signup.png)  
+
+
 - **Admin Dashboard**  
 - **Doctor Panel (Patient Records & Diet Recommendations)**  
 - **Patient Dashboard (Medical History & Diet Plan)**  
