@@ -45,8 +45,10 @@ The system consists of **five main tables:**
 
 - **Home Page**
 ![Login Page](images/Home.png)  
-- **Doctor Panel (Patient Records & Diet Recommendations)**
-![Login Page](images/Details.png)  
+- **Forms**
+![Login Page](images/Details.png)
+- **Patients Lists**
+![Login Page](images/List.png)
 
 
 ## 🚀 Getting Started  
