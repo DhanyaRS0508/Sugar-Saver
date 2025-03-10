@@ -43,9 +43,11 @@ The system consists of **five main tables:**
 ![Signup Page](images/Signup.png)   
 
 
-- **Admin Dashboard**  
-- **Doctor Panel (Patient Records & Diet Recommendations)**  
-- **Patient Dashboard (Medical History & Diet Plan)**  
+- **Home Page**
+![Login Page](images/Home.png)  
+- **Doctor Panel (Patient Records & Diet Recommendations)**
+![Login Page](images/Details.png)  
+
 
 ## 🚀 Getting Started  
 ### **1️⃣ Clone the Repository**  
