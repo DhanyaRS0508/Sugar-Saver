@@ -39,8 +39,8 @@ The system consists of **five main tables:**
 
 ## 📸 Screenshots  
 - **Login & Signup Pages**
-![Login Page](images/login.png)  
-![Signup Page](images/signup.png)  
+![Login Page](images/Login.png)  
+![Signup Page](images/Signup.png)   
 
 
 - **Admin Dashboard**  
